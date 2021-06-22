@@ -1,0 +1,36 @@
+object dtmDados: TdtmDados
+  OnCreate = DataModuleCreate
+  OldCreateOrder = False
+  Height = 76
+  HorizontalOffset = 1034
+  VerticalOffset = 194
+  Width = 195
+  object zcnMagias: TZConnection
+    ControlsCodePage = cCP_UTF8
+    AutoEncodeStrings = False
+    Properties.Strings = (
+      'AutoEncodeStrings='
+    )
+    AutoCommit = False
+    Connected = True
+    Port = 0
+    Database = 'D:\Documentos\Lazarus\Projetos\TagFicha\data\magias\magias.db'
+    Protocol = 'sqlite-3'
+    left = 24
+    top = 16
+  end
+  object zqrMagias: TZQuery
+    Connection = zcnMagias
+    SQL.Strings = (
+      'select * from magias'
+    )
+    Params = <>
+    left = 88
+    top = 16
+  end
+  object dtsMagias: TDataSource
+    DataSet = zqrMagias
+    left = 144
+    top = 17
+  end
+end

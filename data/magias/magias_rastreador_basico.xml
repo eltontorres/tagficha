@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<magias>
+  <magia1>
+    <nome>Abrigo</nome>
+    <custo>1</custo>
+  </magia1>
+  <magia2>
+    <nome>Ações Furtivas</nome>
+    <custo>1</custo>
+  </magia2>
+  <magia3>
+    <nome>Armadura Elemental</nome>
+    <custo>3</custo>
+  </magia3>
+  <magia4>
+    <nome>Despistamento</nome>
+    <custo>1</custo>
+  </magia4>
+  <magia5>
+    <nome>Elo Animal</nome>
+    <custo>2</custo>
+  </magia5>
+  <magia6>
+    <nome>Empatia Animal</nome>
+    <custo>2</custo>
+  </magia6>
+  <magia7>
+    <nome>Escalar Superfícies</nome>
+    <custo>1</custo>
+  </magia7>
+  <magia8>
+    <nome>Ler Trilhas</nome>
+    <custo>1</custo>
+  </magia8>
+  <magia9>
+    <nome>Montar</nome>
+    <custo>2</custo>
+  </magia9>
+  <magia10>
+    <nome>Rastreamento</nome>
+    <custo>1</custo>
+  </magia10>
+  <magia11>
+    <nome>Resistência</nome>
+    <custo>2</custo>
+  </magia11>
+  <magia12>
+    <nome>Resistência Elementalo</nome>
+    <custo>3</custo>
+  </magia12>
+  <magia13>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia13>
+  <magia14>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia14>
+  <magia15>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia15>
+  <magia16>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia16>
+</magias>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elmos>
+	<Nada>
+		<Absorcao>0</Absorcao>
+	</Nada>
+	<ElmoAberto>
+		<Absorcao>1</Absorcao>
+	</ElmoAberto>
+	<ElmoFechado>
+		<Absorcao>2</Absorcao>
+	</ElmoFechado>
+</Elmos>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<magias>
+  <magia1>
+    <nome>Apelo</nome>
+    <custo>3</custo>
+  </magia1>
+  <magia2>
+    <nome>Contatos</nome>
+    <custo>2</custo>
+  </magia2>
+  <magia3>
+    <nome>Curas Físicas</nome>
+    <custo>2</custo>
+  </magia3>
+  <magia4>
+    <nome>Curas Heróicas</nome>
+    <custo>2</custo>
+  </magia4>
+  <magia5>
+    <nome>Esconjuração</nome>
+    <custo>1</custo>
+  </magia5>
+  <magia6>
+    <nome>Maldições</nome>
+    <custo>2</custo>
+  </magia6>
+  <magia7>
+    <nome>Ordens</nome>
+    <custo>2</custo>
+  </magia7>
+  <magia8>
+    <nome>Presença Divina</nome>
+    <custo>1</custo>
+  </magia8>
+  <magia9>
+    <nome>Quebra Encantos</nome>
+    <custo>3</custo>
+  </magia9>
+  <magia10>
+    <nome>Resistência</nome>
+    <custo>1</custo>
+  </magia10>
+  <magia11>
+    <nome>Sagração Itens</nome>
+    <custo>2</custo>
+  </magia11>
+  <magia12>
+    <nome>Solo Sagrado</nome>
+    <custo>1</custo>
+  </magia12>
+  <magia13>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia13>
+  <magia14>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia14>
+  <magia15>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia15>
+  <magia16>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia16>
+</magias>

@@ -1,0 +1,33 @@
+object frmSubirEstagio: TfrmSubirEstagio
+  Left = 404
+  Height = 229
+  Top = 218
+  Width = 482
+  BorderIcons = []
+  BorderStyle = bsSingle
+  Caption = 'Novo Estágio'
+  OnActivate = FormActivate
+  Position = poDesktopCenter
+  LCLVersion = '1.2.6.0'
+  object plySubirEstagio: Tplaysound
+    About.Description.Strings = (
+      'Plays WAVE sounds in Windows or Linux'
+    )
+    About.Title = 'About About About About PlaySound'
+    About.Height = 400
+    About.Width = 400
+    About.Font.Color = clNavy
+    About.Font.Height = -13
+    About.BackGroundColor = clCream
+    About.Version = '0.0.3'
+    About.Authorname = 'Gordon Bamber'
+    About.Organisation = 'Public Domain'
+    About.AuthorEmail = 'minesadorada@charcodelvalle.com'
+    About.ComponentName = 'PlaySound'
+    About.LicenseType = abLGPL
+    SoundFile = 'C:\lazarus\'
+    PlayStyle = psSync
+    PlayCommand = 'sndPlaySnd'
+    left = 448
+  end
+end

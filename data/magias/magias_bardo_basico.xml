@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<magias>
+  <magia1>
+    <nome>Amizade</nome>
+    <custo>3</custo>
+  </magia1>
+  <magia2>
+    <nome>Canção do Animo</nome>
+    <custo>2</custo>
+  </magia2>
+  <magia3>
+    <nome>Distração</nome>
+    <custo>1</custo>
+  </magia3>
+  <magia4>
+    <nome>Empatia</nome>
+    <custo>1</custo>
+  </magia4>
+  <magia5>
+    <nome>Escrita</nome>
+    <custo>1</custo>
+  </magia5>
+  <magia6>
+    <nome>Lendas</nome>
+    <custo>1</custo>
+  </magia6>
+  <magia7>
+    <nome>Linguagem</nome>
+    <custo>2</custo>
+  </magia7>
+  <magia8>
+    <nome>Memorização</nome>
+    <custo>1</custo>
+  </magia8>
+  <magia9>
+    <nome>Modificar Espírito</nome>
+    <custo>2</custo>
+  </magia9>
+  <magia10>
+    <nome>Sedução</nome>
+    <custo>1</custo>
+  </magia10>
+  <magia11>
+    <nome>Silêncio</nome>
+    <custo>2</custo>
+  </magia11>
+  <magia12>
+    <nome>Ventriloquismo</nome>
+    <custo>1</custo>
+  </magia12>
+  <magia13>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia13>
+  <magia14>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia14>
+  <magia15>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia15>
+  <magia16>
+    <nome>–</nome>
+    <custo>–</custo>
+  </magia16>
+</magias>

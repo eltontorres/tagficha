@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<magias>
+  <magia1>
+    <nome>Amizade</nome>
+    <custo>2</custo>
+  </magia1>
+  <magia2>
+    <nome>Análise</nome>
+    <custo>1</custo>
+  </magia2>
+  <magia3>
+    <nome>Bola de Fogo</nome>
+    <custo>2</custo>
+  </magia3>
+  <magia4>
+    <nome>Contatos Mentais</nome>
+    <custo>1</custo>
+  </magia4>
+  <magia5>
+    <nome>Desintegração</nome>
+    <custo>2</custo>
+  </magia5>
+  <magia6>
+    <nome>Detecção de Magia</nome>
+    <custo>2</custo>
+  </magia6>
+  <magia7>
+    <nome>Invisibilidade</nome>
+    <custo>2</custo>
+  </magia7>
+  <magia8>
+    <nome>Levitação</nome>
+    <custo>1</custo>
+  </magia8>
+  <magia9>
+    <nome>Manipulação de Luz</nome>
+    <custo>1</custo>
+  </magia9>
+  <magia10>
+    <nome>Mutação</nome>
+    <custo>2</custo>
+  </magia10>
+  <magia11>
+    <nome>Quebra de Encantos</nome>
+    <custo>2</custo>
+  </magia11>
+  <magia12>
+    <nome>Raio Elétrico</nome>
+    <custo>2</custo>
+  </magia12>
+  <magia13>
+    <nome>Sono</nome>
+    <custo>1</custo>
+  </magia13>
+  <magia14>
+    <nome>Telecinese</nome>
+    <custo>1</custo>
+  </magia14>
+  <magia15>
+    <nome>Transformação</nome>
+    <custo>2</custo>
+  </magia15>
+  <magia16>
+    <nome>Transporte Dimencional</nome>
+    <custo>2</custo>
+  </magia16>
+</magias>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Escudo>
+	<Nada>
+		<DefesaBase>0</DefesaBase>
+		<Absorcao>0</Absorcao>
+	</Nada>
+	<EscudoPequeno>
+		<DefesaBase>1</DefesaBase>
+		<Absorcao>3</Absorcao>
+	</EscudoPequeno>
+	<EscudoGrande>
+		<DefesaBase>1</DefesaBase>
+		<Absorcao>5</Absorcao>
+	</EscudoGrande>
+</Escudo>

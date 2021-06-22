@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Armaduras>
+	<Nada>
+		<Tipo>L</Tipo>
+		<DefesaBase>0</DefesaBase>
+		<Absorcao>0</Absorcao>
+	</Nada>
+	<CouroLeve>
+		<Tipo>L</Tipo>
+		<DefesaBase>1</DefesaBase>
+		<Absorcao>3</Absorcao>
+	</CouroLeve>
+	<CouroRigido>
+		<Tipo>M</Tipo>
+		<DefesaBase>0</DefesaBase>
+		<Absorcao>6</Absorcao>
+	</CouroRigido>
+	<CotaMalhaParcial>
+		<Tipo>M</Tipo>
+		<DefesaBase>1</DefesaBase>
+		<Absorcao>9</Absorcao>
+	</CotaMalhaParcial>
+	<CotaMalhaCompleta>
+		<Tipo>P</Tipo>
+		<DefesaBase>0</DefesaBase>
+		<Absorcao>12</Absorcao>
+	</CotaMalhaCompleta>
+	<CouracaMetalicaParcial>
+		<Tipo>P</Tipo>
+		<DefesaBase>1</DefesaBase>
+		<Absorcao>15</Absorcao>
+	</CouracaMetalicaParcial>
+</Armaduras>

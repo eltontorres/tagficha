@@ -1,0 +1,31 @@
+﻿Combate Desarmado
+Faca
+Punhal
+Cajado
+Porrete
+Gládio
+Espada
+Cimitarra
+Machado
+Machadinha
+Machadinha Crescente
+Clava
+Maça
+Martelo de Guerra
+Mangal leve
+Arco Simlples
+Arco composto
+Arco de Guerra
+Lança leve
+Lança de guarda
+Lança pesada
+Espada de mão e meia (1 m)
+Espada de mão e meia (2 m)
+Montante
+Machado de Guerra
+Axa de Armas
+Maça de Armas
+Mangual
+Marreta de Guerra
+Lança Justa
+Lança de Cavalaria
